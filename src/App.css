@@ -1,0 +1,123 @@
+/* Remove default spacing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Whole page */
+body {
+  font-family: "Poppins", sans-serif;
+  background: #0d1117;
+  color: white;
+}
+
+/* Navbar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 20px 80px;
+
+  background: #111827;
+}
+
+/* Logo */
+nav h2 {
+  color: #3b82f6;
+  font-size: 28px;
+}
+
+/* Menu */
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+/* Menu Items */
+nav ul li {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Hover Effect */
+nav ul li:hover {
+  color: #3b82f6;
+}
+
+/* Hero Section */
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 80px;
+  min-height: 90vh;
+}
+
+.hero-content {
+  max-width: 600px;
+}
+
+.hero-content h4 {
+  font-size: 22px;
+  color: #9ca3af;
+}
+
+.hero-content h1 {
+  font-size: 60px;
+  margin: 15px 0;
+}
+
+.hero-content h2 {
+  font-size: 35px;
+  color: #3b82f6;
+}
+
+.hero-content p {
+  margin: 25px 0;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #cbd5e1;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.hero-buttons button {
+  padding: 14px 28px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.hero-buttons button:first-child {
+  background: #3b82f6;
+  color: white;
+}
+
+.hero-buttons button:last-child {
+  background: transparent;
+  border: 2px solid #3b82f6;
+  color: white;
+}
+
+.photo-placeholder {
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  background: #1f2937;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 24px;
+  color: white;
+}

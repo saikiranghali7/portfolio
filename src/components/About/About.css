@@ -1,0 +1,17 @@
+.about {
+    min-height: 100vh;
+    padding: 80px;
+}
+
+.about h2 {
+    font-size: 40px;
+    color: #3b82f6;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 20px;
+    color: #cbd5e1;
+    line-height: 1.8;
+    max-width: 800px;
+}
