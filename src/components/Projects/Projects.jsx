@@ -11,8 +11,8 @@ const projects = [
     description:
       "Visualizes stack operations with animations and expression conversion.",
     image: stack,
-    github: "https://github.com/yourusername/stack-visualizer",
-    demo: "https://your-demo.vercel.app",
+    github: "https://github.com/saikiranghali7/Stack-visualizer",
+    demo: "https://stack-visualizer-virid.vercel.app/ ",
   },
   {
     title: "Offline Games",
@@ -21,7 +21,7 @@ const projects = [
       "Interactive array operations with step-by-step visualization.",
     image: array,
     github: "https://github.com/saikiranghali7/Offline-games5",
-    demo: "#",
+    demo: "https://offline-games5-sooty.vercel.app",
   },
 ];
 
