@@ -8,9 +8,12 @@ function About() {
       </h2>
 
       <p>
-        I'm Saikiran R Ghali, an MCA student passionate about frontend
-        development. I enjoy building responsive and modern web applications
-        using React and the MERN stack.
+Hi, I'm Saikiran R Ghali, an MCA student at PES University, Bangalore, currently in my 3rd semester and graduating in 2027. I'm passionate about building modern, responsive, and user-friendly web applications that combine clean design with great functionality.
+
+I'm working towards becoming a Frontend, Full Stack, and MERN Stack Developer. I enjoy developing real-world projects using React, JavaScript, Node.js, Express.js, MongoDB, and Git/GitHub, while continuously improving my skills by learning Next.js and modern web technologies.
+
+Outside of coding, I enjoy UI/UX design, music, and exploring new technologies. I'm a quick learner, problem solver, and team player who is always eager to learn, build, and contribute to meaningful projects.
+
       </p>
     </section>
   );
